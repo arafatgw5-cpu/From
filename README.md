@@ -4,7 +4,7 @@ A modern and user-friendly task management web application built with Next.js, R
 
 🚀 Live Demo
 
-🔗 https://from-gilt.vercel.app/tasks
+🔗 https://from-gilt.vercel.app
 
 🛠️ Tech Stack
 ⚡ Next.js (App Router)
