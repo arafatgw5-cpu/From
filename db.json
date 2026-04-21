@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Wireless Headphones",
+      "price": 59.99,
+      "brand": "Sony",
+      "category": "electronics",
+      "rating": 4.5,
+      "stock": 20,
+      "thumbnail": "https://www.startech.com.bd/image/cache/catalog/headphone/oneodio/focus-a10-1-228x228.webp"
+    },
+    {
+      "id": 2,
+      "title": "Smart Watch",
+      "price": 99.99,
+      "brand": "Apple",
+      "category": "wearables",
+      "rating": 4.7,
+      "stock": 15,
+      "thumbnail": "https://www.startech.com.bd/image/cache/catalog/smart-watch/zeblaze/btalk-3-plus/btalk-3-plus-champagne-gold-228x228.webp"
+    },
+    {
+      "id": 3,
+      "title": "Gaming Mouse",
+      "price": 29.99,
+      "brand": "Logitech",
+      "category": "accessories",
+      "rating": 4.3,
+      "stock": 30,
+      "thumbnail": "https://www.startech.com.bd/image/cache/catalog/mouse/havit/ms1027/ms1027-02-228x228.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Bluetooth Speaker",
+      "price": 45.00,
+      "brand": "JBL",
+      "category": "audio",
+      "rating": 4.6,
+      "stock": 25,
+      "thumbnail": "https://www.startech.com.bd/image/cache/catalog/speaker/awei/y385/y385-01-228x228.webp"
+    },
+    {
+      "id": 5,
+      "title": "Laptop Stand",
+      "price": 19.99,
+      "brand": "Generic",
+      "category": "office",
+      "rating": 4.2,
+      "stock": 40,
+      "thumbnail": "https://www.startech.com.bd/image/cache/catalog/laptop-stand/yuanxin/x-zj801/x-zj801-01-500x500.webp"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 15.99,
+      "category": "Self Development",
+      "rating": 4.8,
+      "stock": 20,
+      "thumbnail": "https://covers.openlibrary.org/b/id/10523338-L.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": 12.50,
+      "category": "Finance",
+      "rating": 4.6,
+      "stock": 15,
+      "thumbnail": "https://covers.openlibrary.org/b/id/8231996-L.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 10.99,
+      "category": "Novel",
+      "rating": 4.7,
+      "stock": 25,
+      "thumbnail": "https://covers.openlibrary.org/b/id/8100925-L.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "price": 13.75,
+      "category": "Motivation",
+      "rating": 4.5,
+      "stock": 18,
+      "thumbnail": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 16.20,
+      "category": "Productivity",
+      "rating": 4.7,
+      "stock": 12,
+      "thumbnail": "https://covers.openlibrary.org/b/id/9251996-L.jpg"
+    }
+  ]
+}

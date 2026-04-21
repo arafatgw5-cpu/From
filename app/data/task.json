@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Setup Next.js Project",
+    "description": "Initialize project with Tailwind CSS and required dependencies",
+    "status": "completed",
+    "priority": "high",
+    "category": "setup",
+    "dueDate": "2026-04-05",
+    "assignTo": "Arafat",
+    "createdAt": "2026-04-01",
+    "tags": ["nextjs", "tailwind", "setup"]
+  },
+  {
+    "id": 2,
+    "title": "Create Photo Card Component",
+    "description": "Build polaroid-style 3D photo card with grid background",
+    "status": "completed",
+    "priority": "high",
+    "category": "components",
+    "dueDate": "2026-04-06",
+    "assignTo": "Arafat",
+    "createdAt": "2026-04-02",
+    "tags": ["react", "component", "photo-card", "3d"]
+  },
+  {
+    "id": 3,
+    "title": "Build 3D Card Effect",
+    "description": "Implement mouse-follow 3D perspective animation",
+    "status": "completed",
+    "priority": "high",
+    "category": "components",
+    "dueDate": "2026-04-07",
+    "assignTo": "Arafat",
+    "createdAt": "2026-04-03",
+    "tags": ["animation", "3d", "hover", "ui"]
+  },
+  {
+    "id": 4,
+    "title": "Add Glass 3D Card",
+    "description": "Create glassmorphism card with depth and hover lighting",
+    "status": "completed",
+    "priority": "medium",
+    "category": "components",
+    "dueDate": "2026-04-08",
+    "assignTo": "Arafat",
+    "createdAt": "2026-04-04",
+    "tags": ["glassmorphism", "card", "ui", "design"]
+  },
+  {
+    "id": 5,
+    "title": "Implement Tilt Hover Card",
+    "description": "Add smooth tilt animation with shadow and scaling",
+    "status": "completed",
+    "priority": "medium",
+    "category": "components",
+    "dueDate": "2026-04-09",
+    "assignTo": "Arafat",
+    "createdAt": "2026-04-05",
+    "tags": ["tilt", "hover", "animation", "card"]
+  },
+  {
+    "id": 6,
+    "title": "Create Books Page",
+    "description": "Display books using 3D cards with responsive layout",
+    "status": "in-progress",
+    "priority": "high",
+    "category": "pages",
+    "dueDate": "2026-04-12",
+    "assignTo": "Arafat",
+    "createdAt": "2026-04-06",
+    "tags": ["books", "page", "responsive", "layout"]
+  },
+  {
+    "id": 7,
+    "title": "Fetch Books Data",
+    "description": "Load books from API or local JSON and render dynamically",
+    "status": "pending",
+    "priority": "high",
+    "category": "data",
+    "dueDate": "2026-04-13",
+    "assignTo": "Arafat",
+    "createdAt": "2026-04-07",
+    "tags": ["api", "json", "data-fetching", "dynamic"]
+  },
+  {
+    "id": 8,
+    "title": "Add Responsive Design",
+    "description": "Ensure all cards and pages work on mobile, tablet, desktop",
+    "status": "pending",
+    "priority": "medium",
+    "category": "ui",
+    "dueDate": "2026-04-14",
+    "assignTo": "Arafat",
+    "createdAt": "2026-04-08",
+    "tags": ["responsive", "mobile", "tablet", "desktop"]
+  },
+  {
+    "id": 9,
+    "title": "Optimize Performance",
+    "description": "Lazy load images and optimize animations",
+    "status": "pending",
+    "priority": "low",
+    "category": "optimization",
+    "dueDate": "2026-04-15",
+    "assignTo": "Arafat",
+    "createdAt": "2026-04-09",
+    "tags": ["performance", "lazy-load", "images", "optimization"]
+  },
+  {
+    "id": 10,
+    "title": "Deploy Project",
+    "description": "Deploy project to Vercel and test live version",
+    "status": "completed",
+    "priority": "high",
+    "category": "deployment",
+    "dueDate": "2026-04-16",
+    "assignTo": "Arafat",
+    "createdAt": "2026-04-10",
+    "tags": ["deployment", "vercel", "testing", "live"]
+  }
+]
