@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useRef, useEffect } from "react";
+import TaskCard from "./components/TaskCard";
 
 // WebGL Renderer class
 class WebGLRenderer {
@@ -303,6 +304,7 @@ const useShaderBackground = () => {
     window.addEventListener("resize", resize);
 
     return () => {
+       <TaskCard/>
       window.removeEventListener("resize", resize);
 
       if (animationFrameRef.current) {
@@ -484,6 +486,7 @@ export default function Page() {
           onClick: handleSecondaryClick,
         },
       }}
+     
     />
   );
 }
